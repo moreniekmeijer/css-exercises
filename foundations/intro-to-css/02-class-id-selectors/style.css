@@ -1,0 +1,21 @@
+/* styles.css */
+
+.class-text, .class-text-large {
+    background-color:rgb(255, 150, 150);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  }
+
+  .class-text-large {
+    font-size: 24px;
+  }
+
+#ID-text-blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#ID-text-green {
+    background-color: rgb(103, 255, 103);
+    font-weight: 700;
+    font-size: 24px;
+}
